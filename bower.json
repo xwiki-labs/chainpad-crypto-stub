@@ -1,0 +1,24 @@
+{
+  "name": "chainpad-crypto-stub",
+  "homepage": "https://github.com/xwiki-labs/chainpad-crypto-stub",
+  "authors": [
+    "xwiki-labs <research@xwiki.com>"
+  ],
+  "description": "a stubbed cryptography module for chainpad",
+  "main": "stub.js",
+  "keywords": [
+    "chainpad",
+    "crypto",
+    "cleartext",
+    "stub",
+    "realtime"
+  ],
+  "license": "AGPLv3.-0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
